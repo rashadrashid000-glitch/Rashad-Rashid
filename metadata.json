@@ -1,0 +1,6 @@
+{
+  "name": "RashtechSolutions Mobile Call",
+  "description": "RashtechSolutions Mobile Call - Lightweight, modern mobile calling application with customized video backgrounds for incoming calls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
